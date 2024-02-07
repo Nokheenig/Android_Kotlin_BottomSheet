@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BottomSheet</string>
+    <string name="text">This is a bottom sheet
+
+oqwieruqopwieurpoqwieuropiqwueorpiuwqeopriuwqopeiruopwieurpoiwqeurpoiqwuerpoiuwqpeoriuwqpoeirupowqieurpowiqeurpoiqwuerpoiuwqeporiuwqpoeirupowqieurpoqwieurpoiwqeurpoiqwuerpoiqwuerpoiuwqeporiuwqpoeiruwpoqeirupoweqiurpowqieurpowqieurpoiwquerpoiuqweopriuwqpoeiurpoqwieurpoiwqeurpoiqwuerpoiwquerpoiuwqepoiruqwopeiupoqwieurpoiqweurpoiqwuerp</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+
 </resources>
