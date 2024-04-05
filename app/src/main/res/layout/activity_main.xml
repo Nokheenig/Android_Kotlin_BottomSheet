@@ -37,16 +37,37 @@
     <androidx.core.widget.NestedScrollView
         android:id="@+id/bottom_sheet"
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="450dp"
         android:background="@android:color/holo_green_light"
         app:behavior_hideable="true"
-        app:behavior_peekHeight="55dp"
+        app:behavior_peekHeight="85dp"
         app:layout_behavior="@string/bottom_sheet_behavior">
 
-        <TextView
+        <androidx.appcompat.widget.LinearLayoutCompat
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="@string/text"/>
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/text"
+                android:textSize="30sp"
+                android:layout_marginBottom="0dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/description"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/harvest_mice"
+                android:layout_marginTop="15dp"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
 
     </androidx.core.widget.NestedScrollView>
 

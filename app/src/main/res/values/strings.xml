@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">BottomSheet</string>
-    <string name="text">This is a bottom sheet
-
-oqwieruqopwieurpoqwieuropiqwueorpiuwqeopriuwqopeiruopwieurpoiwqeurpoiqwuerpoiuwqpeoriuwqpoeirupowqieurpowiqeurpoiqwuerpoiuwqeporiuwqpoeirupowqieurpoqwieurpoiwqeurpoiqwuerpoiqwuerpoiuwqeporiuwqpoeiruwpoqeirupoweqiurpowqieurpowqieurpoiwquerpoiuqweopriuwqpoeiurpoqwieurpoiwqeurpoiqwuerpoiwquerpoiuwqepoiruqwopeiupoqwieurpoiqweurpoiqwuerp</string>
+    <string name="text">Eurasian harvest mouse</string>
+    <string name="description">The harvest mouse (Micromys minutus) is a small rodent native to Europe and Asia. It is typically found in fields of cereal crops, such as wheat and oats, in reed beds and in other tall ground vegetation, such as long grass and hedgerows. It has reddish-brown fur with white underparts and a naked, highly prehensile tail, which it uses for climbing. It is the smallest European rodent; an adult may weigh as little as 4 grams (0.14 oz). It eats chiefly seeds and insects, but also nectar and fruit. Breeding nests are spherical constructions carefully woven from grass and attached to stems well above the ground.</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
 
 </resources>
